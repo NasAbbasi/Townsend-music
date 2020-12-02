@@ -1,0 +1,12 @@
+
+#formCard {
+    width: 800px;
+    margin: 0 auto;
+    float: none;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.redBorder{
+    border: solid 1px red;
+}
