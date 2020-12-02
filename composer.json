@@ -1,5 +1,0 @@
-{
-    "require": {
-		"simple-validator/simple-validator": "1.0.*"
-    }
-}
